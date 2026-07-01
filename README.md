@@ -1,82 +1,138 @@
-<h1 align="center">Hi 👋, I'm Anu L G</h1>
+<div align="center">
 
-<h3 align="center">
-MCA Student | Python Developer | Generative AI Enthusiast | Prompt Engineering
-</h3>
+# Hi 👋 I'm Anu L G
+
+### Python Developer | Generative AI Enthusiast | Prompt Engineer | MCA Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Generative+AI+Enthusiast;Prompt+Engineering;AI+Application+Developer;Always+Learning+New+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=Anu-lg&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
+
+---
+
+# 👩‍💻 About Me
+
+🎓 MCA Student at **Visvesvaraya Technological University (VTU)**
+
+💻 Passionate about Python Development, Artificial Intelligence and Generative AI.
+
+🤖 Currently learning
+
+- Prompt Engineering
+- Generative AI
+- Machine Learning
+- AI Application Development
+
+🚀 Looking for
+
+- Python Developer
+- Software Developer
+- AI Engineer
+- Machine Learning Engineer
+
+📫 Email
+
+**anulganulg@gmail.com**
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+### AI / ML
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-purple?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-red?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-green?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+# 🚀 Featured Projects
+
+## 💊 MedCycle
+AI-powered healthcare and medicine reminder platform.
+
+## 🥗 NutriFlex
+AI-powered personalized nutrition recommendation system.
+
+## 🛒 NeuroCart
+Smart AI shopping recommendation platform.
+
+## 📦 Courier Management System
+Python-based courier tracking and management application.
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-Passionate about building AI-powered applications and solving real-world problems using Python, Machine Learning, and Generative AI.
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anu-lg&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu-lg&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anu-lg&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 🏆 GitHub Trophies
 
-- 🎓 MCA Student at Visvesvaraya Technological University (VTU)
-- 🌱 Currently learning Generative AI, Prompt Engineering, and Python Development
-- 💡 Interested in Artificial Intelligence, Machine Learning, and Full Stack Development
-- 🚀 Looking for Software Developer, Python Developer, and AI/ML opportunities
-- 📫 Reach me at: **anulganulg@gmail.com**
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Anu-lg&theme=algolia&margin-w=15&margin-h=15"/>
 
-## 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</p>
 
 ---
 
-## 🤖 AI Skills
+# 🌐 Connect With Me
 
-- Generative AI
-- Prompt Engineering
-- Machine Learning
-- Data Analysis
-- Pandas
-- NumPy
-- Scikit-Learn
+<p align="left">
 
----
+<a href="https://www.linkedin.com/in/anu-l-g/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-## 🚀 Featured Projects
+<a href="mailto:anulganulg@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-### 💊 MedCycle
-AI-powered medicine reminder and healthcare management system.
-
-### 🥗 NutriFlex
-AI-based personalized nutrition recommendation system.
-
-### 🛒 NeuroCart
-AI-powered smart shopping recommendation platform.
-
-### 📦 Courier Management System
-Courier tracking and management application developed using Python.
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Anu-lg&show_icons=true&theme=tokyonight)
+### ⭐ Thanks for visiting my profile ⭐
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anu-lg&theme=tokyonight)
+*"Code. Learn. Build. Grow."*
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anu-lg&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anu-l-g/)
-
-📧 Email: **anulganulg@gmail.com**
-
----
-
-⭐ Thank you for visiting my GitHub profile!
+</div>
